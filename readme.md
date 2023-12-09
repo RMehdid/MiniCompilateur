@@ -31,7 +31,7 @@ To compile the lexer and parser, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/lc6-compiler.git
+    git clone https://github.com/RMehdid/lc6-compiler.git
     cd lc6-compiler
     ```
 
